@@ -135,3 +135,5 @@ Use [Google Analytics Debugger Chrome Extension](https://chrome.google.com/webst
 ## License
 
 MIT
+
+.
